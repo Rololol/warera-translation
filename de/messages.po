@@ -8254,7 +8254,7 @@ msgstr "geschenkt"
 
 #: src/components/_economy/employee/employee.traitMeta.ts:104
 msgid "Girl Power"
-msgstr "Girl Power"
+msgstr "Frauenpower"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2499
 msgid "Give a patriotic speech"
